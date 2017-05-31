@@ -1,0 +1,26 @@
+{
+  "name": "gallery-flex-c",
+  "version": "0.0.1",
+  "description": "this is a adaptation browser view lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adaptation"
+  ],
+  "author": [
+  	{
+  		"name": "cqz",
+  		"email": "feasincc@gamil.com"
+  	}
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  }
+}
